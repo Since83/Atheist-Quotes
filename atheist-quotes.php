@@ -1,6 +1,6 @@
 <?php
 /**
-Plugin Name: '83 Atheist Quotes
+Plugin Name: '.83 Atheist Quotes
 Plugin URI: http://since83.com
 Description: This plugin puts some great quotes by Atheist on the top of your admin panel
 Author: Eric Hamby
